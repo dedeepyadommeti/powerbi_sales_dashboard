@@ -27,7 +27,7 @@ This Power BI dashboard provides an interactive analysis of sales, cost, and pro
 - Map and AI visual components
 
 ## 📷 Preview
-![Sales Dashboard Preview](./Screenshot%202025-05-03%20221951.png)
+![Sales Dashboard Preview](./Screenshot 2025-05-10 173426.png)
 
 ## 🚀 How to Use
 1. Download the `.pbix` file from this repository

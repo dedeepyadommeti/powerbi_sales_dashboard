@@ -30,7 +30,33 @@ This Power BI dashboard provides an interactive analysis of sales, cost, and pro
 ![Sales Dashboard Preview](./Screenshot%202025-05-10%20173426.png)
 
 ## 🚀 How to Use
-1. Download the `.pbix` file from this repository
-2. Open in Power BI Desktop
-3. Interact using slicers and filters to gain custom insights
+
+1. **Download the `.pbix` file** from this repository:
+   - [Download Power BI Sales Dashboard](./powerbi_sales_dashboard.pbix)
+
+2. **Open in Power BI Desktop**:
+   - If you don’t have Power BI Desktop, download it from [here](https://powerbi.microsoft.com/desktop/).
+
+3. **Interact using slicers and filters** to gain custom insights:
+   - Once the report is open in Power BI Desktop, you can use the slicers and filters available on the dashboard to explore the data and customize the view based on your preferences.
+
+## 📊 Dashboard Overview
+
+This Power BI dashboard visualizes sales data and provides various filters to analyze the performance across different regions, products, and time periods. You can interact with different sections to drill down into the data for deeper insights.
+
+## 📑 Requirements
+
+- **Power BI Desktop**: To open and interact with the `.pbix` file, you need Power BI Desktop installed on your system. 
+- **Sales Data**: The dashboard is based on the provided dataset within the `.pbix` file, so ensure you open the correct file to explore the visualization.
+
+---
+
+## 🛠️ How to Contribute
+
+Feel free to fork this repository, make changes, and submit pull requests. If you want to suggest new features or improvements, open an issue in this repository.
+
+## 📬 Contact
+
+For any questions or feedback, please reach out to [dedeepyadommeti@gmail.com].
+
 

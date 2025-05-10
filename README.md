@@ -36,8 +36,10 @@ This Power BI dashboard provides an interactive analysis of sales, cost, and pro
 
 2. **Open in Power BI Desktop**:
    - If you don’t have Power BI Desktop, download it from [here](https://powerbi.microsoft.com/desktop/).
+3. **Download the Sales Data (Excel)** from the following link:
+   - [Download Power BI Dataset.xlsx](https://github.com/dedeepyadommeti/powerbi_sales_dashboard/blob/main/Power%20BI%20Dataset.xlsx)
 
-3. **Interact using slicers and filters** to gain custom insights:
+4. **Interact using slicers and filters** to gain custom insights:
    - Once the report is open in Power BI Desktop, you can use the slicers and filters available on the dashboard to explore the data and customize the view based on your preferences.
 
 ## 📊 Dashboard Overview
